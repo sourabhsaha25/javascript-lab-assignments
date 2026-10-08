@@ -18,4 +18,4 @@ console.log(square(10));
 
 const fullName = (first, last) => first + " " + last;
  
-console.log(fullName("Piyush", "Hanswal"));
+console.log(fullName("sahil", "Hanswal"));
