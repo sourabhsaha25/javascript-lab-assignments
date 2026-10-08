@@ -1,14 +1,14 @@
-    console.log("My Name is Piyush");
+    console.log("My Name is Sourabh");
     console.log(5+5);
     //==========Predicted Output============
-    // My Name is Piyush
+    // My Name is Sourabh
     // 10
 
 // Task 1.1 
-    // console.log(My Name is Piyush);
+    // console.log(My Name is Sourabh);
     // Error Message: Uncaught SyntaxError: missing ) after argument list
 
-    console.log("My Name is Piyush"); //Fixed Syntax
+    console.log("My Name is Sourabh"); //Fixed Syntax
 
 //  Tasl 1.2 
     console.log("test");
