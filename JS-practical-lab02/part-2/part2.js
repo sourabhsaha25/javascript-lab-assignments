@@ -1,11 +1,11 @@
-let studentName = "Piyush";
+let studentName = "Sourabh";
 let studentAge = 20;
 const collegeName = "Dev Sanskriti Vishwavidyalaya";
 
 // Task 2.1
-    let name = "Piyush";
-    let rollNum = 2424159;
-    let course = "B.SC (IT)";
+    let name = "Sourabh";
+    let rollNum = 2424418;
+    let course = "B.C.A";
 
     console.log("My name is: ", name, "Roll Number is: ", rollNum, "and Course is: ",course);
 
