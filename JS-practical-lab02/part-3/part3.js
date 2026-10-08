@@ -7,7 +7,7 @@ let previousMayor = null; // Null
 console.log(typeof city, typeof population, typeof isCapital, typeof mayor, typeof previousMayor);
 
 // Task 3.1
-    let name = "Piyush" //String
+    let name = "Sourabh" //String
     let age = 20; //Number
     let isMarried = false //Boolean
     let course; //Undefine
