@@ -61,3 +61,5 @@ diary.write("Practice JavaScript");
  
 console.log(diary.read());
 console.log(diary.entries);
+
+//Sourav kumar BCA student
